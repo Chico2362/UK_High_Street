@@ -69,8 +69,6 @@ uk-high-street/
 | ONS | Retail Sales Index (monthly) | [ons.gov.uk](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsales) |
 | Bank of England | Base rate history | [bankofengland.co.uk](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate) |
 
-> ⚠️ Raw data files are not tracked in this repo due to size (Companies House CSV ~2.8GB). Download links above.
-
 ---
 ## 📈 Phase Breakdown
 
